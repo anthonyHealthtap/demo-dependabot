@@ -13,3 +13,6 @@ updates:
     directory: "/ruby"
     schedule:
       interval: "weekly"
+    assignees:
+      - anthonyHealthtap
+      
